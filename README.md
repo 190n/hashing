@@ -18,3 +18,4 @@ Hash functions I should try:
 - [ ] [djb2](https://theartincode.stanis.me/008-djb2/)
 - [ ] SPECK (implementation from CSE 13S)
 - [ ] various ones from openssl/zig crypto (at least crc32, md5, sha1, sha256)
+- [ ] [cityhash](https://github.com/google/cityhash)
